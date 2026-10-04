@@ -1,3 +1,3 @@
 Team members: LoganMyers0131 and shriyansgupta45
 Favorite programming language: Rust
-Team motto: Erase the tech debt!
+Team motto: Code, learn, and improve!
